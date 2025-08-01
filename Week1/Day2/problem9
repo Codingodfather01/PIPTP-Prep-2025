@@ -2,8 +2,8 @@ public class Question9 {
     public static void main(String[] args) {
         int value = 2, sum = 0;
         while (value <= 10) {
-            sum += value;
-            value += 2;
+            sum += value;//2+4+6+8+10
+            value += 2;//2,4,6,8,10
         }
         System.out.println(sum); // Output: 30
     }
