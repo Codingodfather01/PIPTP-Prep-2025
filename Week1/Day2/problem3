@@ -17,3 +17,4 @@ public class Question3 {
         }
     }
 }
+//after checking case we get case 2 but there is no break statement so all the cases after that will be executed 
