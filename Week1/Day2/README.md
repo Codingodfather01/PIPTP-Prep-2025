@@ -7,7 +7,7 @@
 - [Problem 4](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/34f07763367532423aca6e41f8afb2e295ac3090/Week1/Day2/problem4)
 - [Problem 5](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/682a2a88cc5e3026986d6b0e2d020a934a111c4e/Week1/Day2/problem5)
 - [Problem 6](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/53aebca3e3469c300d226a45d7eb808f6fca9238/Week1/Day2/problem6)
-- [Problem 7]
+- [Problem 7](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/6e3c62529e2c657eceede8dee32341df4011b1cf/Week1/Day2/problem7)
 - [Problem 8]
 - [Problem 9]
 - [Problem 10]
