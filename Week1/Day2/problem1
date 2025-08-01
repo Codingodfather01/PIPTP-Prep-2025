@@ -1,9 +1,9 @@
 public class Question1 {
     public static void main(String[] args) {
         int x = 5, y = 3, z;
-        if (x > y) {
-            if (y > 0) {
-                z = x / y;
+        if (x > y)//5>3 {
+            if (y > 0)//3>0 {
+                z = x / y;//5%3==1
             } else {
                 z = x * y;
             }
