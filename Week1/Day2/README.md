@@ -10,4 +10,4 @@
 - [Problem 7](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/6e3c62529e2c657eceede8dee32341df4011b1cf/Week1/Day2/problem7)
 - [Problem 8](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/9eb990ebf168ebd909a44a4f5cff7c14ba8113bb/Week1/Day2/problem8)
 - [Problem 9](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/bfcc9a1be0ff17b9be65b6741fa4d3d41148883e/Week1/Day2/problem9)
-- [Problem 10]
+- [Problem 10](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/e7a560ab5564eb92a83aaaa65bdb16ca8f81fa11/Week1/Day2/problem10)
