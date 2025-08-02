@@ -1,7 +1,7 @@
 # Week1 - Day 3
 
 ## Problems
-- [Problem 11]
+- [Problem 11](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/350351538308ed2cfcf1cb56f8876beb8e0d23e0/Week1/Day3/problem11)
 - [Problem 12]
 - [Problem 13]
 - [Problem 14]
