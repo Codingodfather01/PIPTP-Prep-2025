@@ -2,7 +2,7 @@
 
 ## Problems
 - [Problem 11](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/350351538308ed2cfcf1cb56f8876beb8e0d23e0/Week1/Day3/problem11)
-- [Problem 12]
+- [Problem 12](https://github.com/Codingodfather01/PIPTP-Prep-2025/blob/c679cdc6b7ec4cc7c179e2699cd965b49f9ea977/Week1/Day3/problem12)
 - [Problem 13]
 - [Problem 14]
 - [Problem 15]
