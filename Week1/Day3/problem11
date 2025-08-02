@@ -1,0 +1,8 @@
+ public static int question11() {
+        // Initialize x and y
+        int x = 5;
+        int y = 3;
+        int z = x + y * x - 2; // y * x is evaluated first due to operator precedence
+        // Calculate z using the formula: z = 5 + 3 * 5 - 2
+        return z; // Expected output: 18
+    }
