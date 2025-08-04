@@ -1,0 +1,25 @@
+public class Main {
+    /*
+    Steps:
+    1. Base case: If n is 0, return
+    2. Recursive case:
+       - First make recursive call with n-1
+       - Then print n (prints in ascending order)
+    */
+    public static void reversePrint(int n) {
+        if (n == 0) {          // Base case
+            return;
+        }
+        reversePrint(n - 1);   // Recursive call
+        System.out.println(n); // Print after recursion
+    }
+
+    public static void main(String[] args) {
+        reversePrint(3);
+        /* Output:
+        1
+        2
+        3
+        */
+    }
+}
