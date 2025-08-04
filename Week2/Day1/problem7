@@ -1,0 +1,17 @@
+public class Main {
+    /*
+    Steps:
+    1. Base case: If n <= 1, return n
+    2. Recursive case: Return fun(n-1) + fun(n-3)
+    */
+    public static int fun(int n) {
+        if (n <= 1) {             // Base case
+            return n;
+        }
+        return fun(n - 1) + fun(n - 3); // Recursive call
+    }
+
+    public static void main(String[] args) {
+        System.out.println(fun(5)); // Output: 4
+    }
+}
