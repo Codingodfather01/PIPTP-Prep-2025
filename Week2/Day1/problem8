@@ -1,0 +1,32 @@
+public class Main {
+    /*
+    Steps:
+    1. Base case: If n is 0, return
+    2. Recursive case: 
+       - Call fun(n-1) twice
+       - This creates exponential growth in calls
+    */
+    public static void fun(int n) {
+        if (n == 0) {            // Base case
+            return;
+        }
+        fun(n - 1);             // First recursive call
+        fun(n - 1);             // Second recursive call
+    }
+
+    /*
+    To count calls:
+    1. Each call to countCalls counts as 1
+    2. Add counts from both recursive branches
+    */
+    public static int countCalls(int n) {
+        if (n == 0) {
+            return 1;           // Count the base case
+        }
+        return 1 + countCalls(n - 1) + countCalls(n - 1); // Recursive count
+    }
+
+    public static void main(String[] args) {
+        System.out.println(countCalls(3)); // Output: 7
+    }
+}
