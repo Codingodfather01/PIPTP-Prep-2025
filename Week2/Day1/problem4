@@ -1,0 +1,25 @@
+public class Main {
+    /*
+    Steps:
+    1. Base case: If x is 0, return
+    2. Recursive case: 
+       - First make recursive call with x-1
+       - Then print x (this causes numbers to print in order)
+    */
+    public static void fun(int x) {
+        if (x == 0) {              // Base case
+            return;
+        }
+        fun(x - 1);               // Recursive call
+        System.out.println(x);    // Print after recursive returns
+    }
+
+    public static void main(String[] args) {
+        fun(3);
+        /* Output:
+        1
+        2
+        3
+        */
+    }
+}
