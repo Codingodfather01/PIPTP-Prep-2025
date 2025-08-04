@@ -1,0 +1,18 @@
+public class Main {
+    /*
+    Steps:
+    1. Base case: If n is 0, return 0
+    2. Recursive case: Return n + sum of even numbers up to n-2
+    */
+    public static int f(int n) {
+        if (n == 0) {               // Base case
+            return 0;
+        } else {
+            return n + f(n - 2);    // Recursive call
+        }
+    }
+
+    public static void main(String[] args) {
+        System.out.println(f(6));   // Output: 12
+    }
+}
